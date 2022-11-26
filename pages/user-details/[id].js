@@ -33,7 +33,7 @@ const UserDetails = props => {
       [&>aside]:w-full
       bg-pattern
       bg-cover
-      h-full
+      h-auto
       '>
 
       <Head>
